@@ -1,1 +1,1 @@
-# Image-Classification-Model-using-deep-learning
+# Image-Classification-Model-using-Deep Learning
